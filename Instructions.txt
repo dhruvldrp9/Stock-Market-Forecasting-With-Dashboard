@@ -1,0 +1,16 @@
+Step 1: Open command prompt.
+Step 2: Change the directory to project folder, i.e., this folder in this case.
+Step 3: Create a virtual Environment
+	For Windows: python -m venv virtualenv
+	For MacOS and Linux: python3 -m venv virtualenv
+Step 4: Activate the virtual Environment
+	For Windows: virtualenv\Scripts\activate
+	For MacOS and Linux: source virtualenv/bin/activate
+Step 5: Install the dependencies
+	pip install -r requirements.txt
+Step 6: Migrate the Django Project
+	For Windows: python manage.py migrate
+	For MacOS and Linux: python3 manage.py migrate
+Step 7: Run the Application:
+	For Windows: python manage.py runserver
+	For MacOS and Linux: python3 manage.py runserver
