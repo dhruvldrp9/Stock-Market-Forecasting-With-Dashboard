@@ -1,5 +1,8 @@
 # 📈 Stock Market Forecasting with Dashboard  
 
+![image](https://github.com/user-attachments/assets/573c9063-7265-4161-b139-0500aa21e8d9)
+
+
 An advanced **Stock Market Forecasting System** that leverages **machine learning** and **real-time data visualization** to provide predictive insights. This project includes a **Django-based backend** and an **interactive dashboard** for analyzing stock trends.  
 
 ## 🚀 Features  
